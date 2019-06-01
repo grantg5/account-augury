@@ -16,6 +16,7 @@ So I'm building the Account Augury, to place those larger monitary events alongs
 * Version 3: Factoring predicted inflation & possible salary growth into long-term projections
 * Version 4 (if possible): Pulling past account data from your bank to compare projections with actual account inflow/outflow
 
+https://trello.com/b/eGJ73t1l/account-augury
 
 ________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

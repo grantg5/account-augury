@@ -11,7 +11,7 @@ The tools will either try to average these into my monthly budget, meaning my ex
 So I'm building the Account Augury, to place those larger monitary events alongside my month-to-month paycheck/spending difference, to help me visualize where my savings will be 6 months/1 year/5 years/etc. from now.
 
 ### Rough Iteration Plan
-* Version 1: One page app where you can enter income, budget, income events, & spending events, click Submit, and view a beautiful, interactable, scalable graph of your expected savings growth/shrink
+* Version 1: One page app where you can enter income, budget, future income events, & future spending events, click Submit, and view a beautiful, interactable, scalable graph of your expected savings growth/shrink
 * Version 2: Backend/User Authentication/Saving the numbers & events you entered
 * Version 3: Factoring predicted inflation & possible salary growth into long-term projections
 * Version 4 (if possible): Pulling past account data from your bank to compare projections with actual account inflow/outflow
